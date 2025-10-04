@@ -1,0 +1,15 @@
+../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_bus.h:425:22:LL_AHB1_GRP1_EnableClock	1
+../../Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_bus.h:1366:22:LL_AHB3_GRP1_EnableClock	1
+../Core/Src/stm32u5xx_hal_msp.c:63:6:HAL_MspInit	1
+../Core/Src/stm32u5xx_hal_msp.c:89:6:HAL_MDF_MspInit	3
+../Core/Src/stm32u5xx_hal_msp.c:137:6:HAL_MDF_MspDeInit	2
+../Core/Src/stm32u5xx_hal_msp.c:166:6:HAL_I2C_MspInit	5
+../Core/Src/stm32u5xx_hal_msp.c:245:6:HAL_I2C_MspDeInit	3
+../Core/Src/stm32u5xx_hal_msp.c:298:6:HAL_OSPI_MspInit	7
+../Core/Src/stm32u5xx_hal_msp.c:470:6:HAL_OSPI_MspDeInit	5
+../Core/Src/stm32u5xx_hal_msp.c:560:6:HAL_SPI_MspInit	3
+../Core/Src/stm32u5xx_hal_msp.c:618:6:HAL_SPI_MspDeInit	2
+../Core/Src/stm32u5xx_hal_msp.c:651:6:HAL_UART_MspInit	5
+../Core/Src/stm32u5xx_hal_msp.c:732:6:HAL_UART_MspDeInit	3
+../Core/Src/stm32u5xx_hal_msp.c:779:6:HAL_PCD_MspInit	4
+../Core/Src/stm32u5xx_hal_msp.c:838:6:HAL_PCD_MspDeInit	2
